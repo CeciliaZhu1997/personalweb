@@ -1,0 +1,40 @@
+baseurl: /
+languageCode: en-us
+title: Dongdong Zhu
+theme: "hugo-ivy"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: ↩
+
+permalinks:
+  note: /note/:year/:month/:day/:slug/
+  post: /post/:year/:month/:day/:slug/
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Vitae"
+      url: "/vitae/"
+      weight: 2
+    - name: "Research Projects"
+      url: "/research/"
+      weight: 3
+    - name: "Career Achievements"
+      url: "/career/"
+      weight: 4
+
+params:
+  description: "A former marketing specialist and an emerging academic."
+  footer: "This website is inspired from &copy; [Yihui Xie](https://yihui.org) | [GitHub](https://github.com/CeciliaZhu1997/personalweb)"
+  highlightjsLang: ["latex"]
+  highlightjsTheme: "github"
+  highlightjsVersion: "11.7.0"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
