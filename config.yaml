@@ -18,10 +18,10 @@ menu:
     - name: "Vitae"
       url: "/vitae/"
       weight: 2
-    - name: "Research Projects"
+    - name: "Research"
       url: "/research/"
       weight: 3
-    - name: "Career Achievements"
+    - name: "Career"
       url: "/career/"
       weight: 4
 

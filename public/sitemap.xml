@@ -13,9 +13,9 @@
   </url><url>
     <loc>//localhost:4321/career/</loc>
   </url><url>
-    <loc>//localhost:4321/research/</loc>
-  </url><url>
     <loc>//localhost:4321/categories/</loc>
+  </url><url>
+    <loc>//localhost:4321/research/</loc>
   </url><url>
     <loc>//localhost:4321/tags/</loc>
   </url>
