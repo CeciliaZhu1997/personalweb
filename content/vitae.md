@@ -22,7 +22,7 @@ slug: "/vitae"
 - Wirz, D., Schäfer, S., Schneider, F., **Zhu, D.**, Tan, Y. *TikTok News and the Illusion of Knowledge: Effects of Thematic Framing and Emotionalization.* 
 
 ### Articles
-- [Social media analyses](https://ceciliazhu1997.github.io/media_analysis/)
+- [Media analysis articles published on news platforms](/Articles)
 
 ## Research Experience
 - 2024.05 ~ 2024.12, Research assistant, Amsterdam School of Communication Research (ASCoR), Supervised by [Joanna Strycharz](https://scholar.google.com/citations?hl=nl&user=JV-KAo4AAAAJ), [Justin Ho](https://scholar.google.com/citations?hl=en&user=EukNVL0AAAAJ&view_op=list_works&sortby=pubdate), [Marthe Möller](https://scholar.google.com/citations?user=rKWov8wAAAAJ&hl=en).

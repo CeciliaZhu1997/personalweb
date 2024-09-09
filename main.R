@@ -1,6 +1,8 @@
-install.packages("blogdown")
+#install.packages("blogdown")
 library(blogdown)
 
-hugo_version()
+#hugo_version()
+#new_site(theme = "yihui/hugo-ivy")
 
-new_site(theme = "yihui/hugo-ivy")
+blogdown::serve_site()
+
