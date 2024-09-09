@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Dongdong Zhu</title>
+    <link>//localhost:4321/tags/research/</link>
+    <description>Recent content in Research on Dongdong Zhu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Conference] Are Housewives Getting Depressed? A Machine Learning Study Based on YouTube</title>
+      <link>//localhost:4321/2024-05-30-are_housewives_getting_depressed/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2024-05-30-are_housewives_getting_depressed/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;This paper was accepted by the 74th International Communication Association (ICA) Regional Hub Beijing.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;This study aims to explore housewives’ digital expression based on 1800 videos from YouTube using a supervised machine learning approach.&lt;/p&gt;&#xA;&lt;p&gt;Major Depressive Disorder (MDD) has symptoms including feeling depressed or sad, loss of interest, etc., lasting at least two weeks, according to the American Psychiatric Association. It is considered the leading cause of &amp;ldquo;disease-related disability&amp;rdquo; among females according to the World Health Organization’s Global Burden of Disease, with females being at 1.5 to 3 times higher risk than males (Kessler, 2003).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

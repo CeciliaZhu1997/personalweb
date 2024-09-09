@@ -8,16 +8,19 @@
     <loc>//localhost:4321/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/housewives/</loc>
+    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/conspirituality/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/memes/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/poprun/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/renovation/</loc>
-    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/tags/career/</loc>
-    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/tags/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/newyears/</loc>
@@ -25,6 +28,12 @@
   </url><url>
     <loc>//localhost:4321/articles/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/lse_thesis/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/ruc_thesis/</loc>
+    <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/about/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
@@ -34,5 +43,7 @@
     <loc>//localhost:4321/career/</loc>
   </url><url>
     <loc>//localhost:4321/research/</loc>
+  </url><url>
+    <loc>//localhost:4321/tags/</loc>
   </url>
 </urlset>

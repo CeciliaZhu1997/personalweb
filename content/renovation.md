@@ -1,10 +1,6 @@
 ---
-layout: post
-title: "[Campaign] Make Smart Living a Reality for Everyone!"
+title: "Make Smart Living a Reality for Everyone!"
 date: 2022-12-31
-tags: [career]
-comments: true
-author: Dongdong
 ---
 
 I led a very meaningful project during my three-year work experience at Xiaomi. The project involved using Xiaomi Smart AIoT products to renovate the homes of brand users for free who were in need.
@@ -22,6 +18,10 @@ My role in this project was as follows:
 
 The event and relevant videos/posts achieved significant influence globally, reaching over 18 million impressions, 10 million views, and over 50 thousand registrants in total. Here are some of the videos produced under my supervision:
 
-[1] [Xiaomi Renovation Philippines](https://youtu.be/m4ZX84QHNBc?si=PiXZN8LaeCEgR0lQ)<br>
-[2] [Xiaomi Renovation Vietnam](https://youtu.be/p3I_preGCsA?si=Mnm5Q9tBMB1IZDve)<br>
-[3] [Xiaomi Renovation Italy](https://youtu.be/3CNRGhWH11g?si=wn0LWNFJRuP7hpNG)<br>
+<!-- Xiaomi Renovation Philippines -->
+[![Xiaomi Renovation Philippines](https://img.youtube.com/vi/m4ZX84QHNBc/maxresdefault.jpg)](https://youtu.be/m4ZX84QHNBc?si=PiXZN8LaeCEgR0lQ)
+
+<!-- Xiaomi Renovation Vietnam -->
+[![Xiaomi Renovation Vietnam](https://img.youtube.com/vi/p3I_preGCsA/maxresdefault.jpg)](https://youtu.be/p3I_preGCsA?si=Mnm5Q9tBMB1IZDve)
+
+

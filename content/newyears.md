@@ -1,20 +1,16 @@
 ---
-layout: post
-title: "[Campaign] The Day We Celebrated the New Year 24 Times!"
+title: "The Day We Celebrated the New Year 24 Times!"
 date: 2021-01-01
-tags: [career]
-comments: true
-author: Dongdong
 ---
 
 This is a very special campaign as it is my first time working independently as a project manager, just six months into my first full-time job. We completed a global marketing event -- inviting our users from every time zone in the world to celebrate New Year together!
 
-<h4>Introduction</h4>
+## Introduction
 The campaign, titled Xiaomi POP - 24 New Years, hosted a 24-hour livestream starting from New Zealand, where the time is the earliest (GMT+12) and has the very first New Year worldwide, and ended at Aitutaki, one of the Cook Islands in the South Pacific (GMT-10), the last time zone globally. From each time zone, we invited one individual or a group of brand users (actual users, not actors) to join the livestream and record their moments as the new year arrived. A total of 34 cities and 102 users from around the world participated, and the livestream ultimately garnered over 102 million impressions and 2 million clicks.<br>
 <br>
-![cities participating in the livestreaming](/images/24newyears/cities_participating_in_the_livestreaming.png)
+![cities participating in the livestreaming](/images/24newyears.png)
 
-<h4>My Responsibilities</h4>
+## My Responsibilities
 Of course, this was a very challenging campaign for the project manager, but also inspiring, especially for someone who just started her career. I began preparing for this project in October 2020, and over the next two months, I completed the following tasks:
 
 - **Creative Planning**: Developed activity ideas and planned event content, such as 24-hour live stream materials, promotional plans, and product promotion strategies during the event.
@@ -23,7 +19,7 @@ Of course, this was a very challenging campaign for the project manager, but als
 
 And the thing I am most proud of: finding 102 brand users who were willing to join us! 
 
-<h4>Feedback from Users and Audiences</h4>
+## Feedback from Users and Audiences
 The campaign was a success and received many heartfelt comments from audiences worldwide.<br>
 
 @Prince kiah<br>

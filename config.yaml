@@ -27,7 +27,7 @@ menu:
 
 params:
   description: "Dongdong Zhu"
-  footer: "&copy; [D Zhu](dzhu.netlify.app) | [Email](mailto:dongdong.zhu@student.uva.nl) | [LinkedIN](https://www.linkedin.com/in/dongdong-zhu-aa3033129/?locale=en_US) | [GitHub](https://github.com/CeciliaZhu1997)"
+  footer: "&copy; [D Zhu](/) | [Email](mailto:dongdong.zhu@student.uva.nl) | [LinkedIN](https://www.linkedin.com/in/dongdong-zhu-aa3033129/?locale=en_US) | [GitHub](https://github.com/CeciliaZhu1997)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
