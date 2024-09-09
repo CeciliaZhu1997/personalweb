@@ -26,18 +26,18 @@ slug: "/vitae"
 - [Media Analysis: Articles Published on News Platforms](/Articles)
 
 ## Research Experience
-- 2024.05 ~ 2024.12, Research assistant, Amsterdam School of Communication Research (ASCoR), Supervised by [Joanna Strycharz](https://scholar.google.com/citations?hl=nl&user=JV-KAo4AAAAJ), [Justin Ho](https://scholar.google.com/citations?hl=en&user=EukNVL0AAAAJ&view_op=list_works&sortby=pubdate), [Marthe Möller](https://scholar.google.com/citations?user=rKWov8wAAAAJ&hl=en)<sup>[2]</sup>
-- 2024.03 ~ 2024.12, Research assistant, Amsterdam School of Communication Research (ASCoR), Supervised by [Dominique Wirz](https://scholar.google.com/citations?hl=de&user=Z1uaZaEAAAAJ&view_op=list_works&sortby=pubdate), [Frank Schneider](https://scholar.google.com/citations?hl=en&user=ev269g0AAAAJ&view_op=list_works&sortby=pubdate), [Svenja Schäfer](https://scholar.google.com/citations?user=r48_ZVMAAAAJ&hl=en)<sup>[3]</sup><br>
+- 05/2024 ~ 12/2024, Research assistant, Amsterdam School of Communication Research (ASCoR), Supervised by [Joanna Strycharz](https://scholar.google.com/citations?hl=nl&user=JV-KAo4AAAAJ), [Justin Ho](https://scholar.google.com/citations?hl=en&user=EukNVL0AAAAJ&view_op=list_works&sortby=pubdate), [Marthe Möller](https://scholar.google.com/citations?user=rKWov8wAAAAJ&hl=en)<sup>[2]</sup>
+- 03/2024.03 ~ 12/2024, Research assistant, Amsterdam School of Communication Research (ASCoR), Supervised by [Dominique Wirz](https://scholar.google.com/citations?hl=de&user=Z1uaZaEAAAAJ&view_op=list_works&sortby=pubdate), [Frank Schneider](https://scholar.google.com/citations?hl=en&user=ev269g0AAAAJ&view_op=list_works&sortby=pubdate), [Svenja Schäfer](https://scholar.google.com/citations?user=r48_ZVMAAAAJ&hl=en)<sup>[3]</sup><br>
 [More](/research)
 
 ## Working Experience
 
-- 2023.02 ~ 2023.06, Operation Specialist, Department of Operation, DoraHacks, Remote<br>
-- 2020.03 ~ 2023.02, Marketing Specialist, Department of Global Marketing, Xiaomi, Beijing, China<br>
-- 2017.11 ~ 2020.03, Freelancer, Platform and Content Group, Tencent, Remote<br>
-- 2019.06 ~ 2019.09, Intern, The Chinese Weekly, Kylin Prime Group, London, the UK<br>
-- 2017.05 ~ 2017.08, Intern, MSL China, Publicis Groupe, Beijing, China<br>
-- 2017.02 ~ 2017.05, Intern, China Central Television, Beijing, China<br>
+- 02/2023 ~ 06/2023, Operation Specialist, Department of Operation, DoraHacks, Remote<br>
+- 03/2020 ~ 02/2023, Marketing Specialist, Department of Global Marketing, Xiaomi, Beijing, China<br>
+- 11/2017 ~ 03/2020, Freelancer, Platform and Content Group, Tencent, Remote<br>
+- 06/2019 ~ 09/2019, Intern, The Chinese Weekly, Kylin Prime Group, London, the UK<br>
+- 05/2017 ~ 08/2017, Intern, MSL China, Publicis Groupe, Beijing, China<br>
+- 02/2017 ~ 05/2017, Intern, China Central Television, Beijing, China<br>
 
 ## Honor & Awards
 - National Encouragement Scholarship, Ministry of Education of China (1/22), 2017<br>
