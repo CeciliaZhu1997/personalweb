@@ -21,7 +21,7 @@ slug: "/vitae"
 - **Zhu, D.** (2024). At the intersection of childism and gender: A sentiment analysis of
 ”baby girl” and ”baby boy” corpus on Chinese social media. In Proceedings of *the 75th
 International Communication Association*.
-- Wirz, D., Schneider, F., Sch¨ afer, S., **Zhu, D.**, & Tan, Y. (2024). TikTok news and (the illusion of) knowledge: An experiment combining self-reports and physiological measurements. In Proceedings of *the 75th International Communication Association*.[Pre-registration](https://osf.io/cefdh?view_only=28d8c6b11c0f42e68768655d6e9227a9)
+- Wirz, D., Schneider, F., Schafer, S., **Zhu, D.**, & Tan, Y. (2024). TikTok news and (the illusion of) knowledge: An experiment combining self-reports and physiological measurements. In Proceedings of *the 75th International Communication Association*.[Pre-registration](https://osf.io/cefdh?view_only=28d8c6b11c0f42e68768655d6e9227a9)
 
 #### Work in Progress
 - Strycharz, J., Möller, M., Ho, J., **Zhu, D.**, Huo, Q. Developing a Comparative Media Dataset from Web Crawl Data for Communication Science Research.<br>
