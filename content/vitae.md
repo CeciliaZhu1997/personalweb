@@ -14,13 +14,17 @@ slug: "/vitae"
 
 ## Publications
 
-#### Conference Paper
-- [1] **Zhu, D.** (2024, June 23). *Are Housewives Getting Depressed? A Machine Learning Study Based on YouTube*. 74th International Communication Association Regional Hub, Beijing, China. [[link]](/housewives) [[dataset]](https://github.com/CeciliaZhu1997/mycode/blob/main/Housewife_data_collection.ipynb?short_path=b32dc21)  [[code]](https://github.com/CeciliaZhu1997/mycode/blob/main/Housewife_data_analysis.ipynb)
+#### Conference
+- **Zhu, D.** (2024, June 23). Are Housewives Getting Depressed? A Machine Learning Study Based on YouTube. *the 74th International Communication Association Regional Hub*, Beijing, China. [[link]](/housewives) [[dataset]](https://github.com/CeciliaZhu1997/mycode/blob/main/Housewife_data_collection.ipynb?short_path=b32dc21)  [[code]](https://github.com/CeciliaZhu1997/mycode/blob/main/Housewife_data_analysis.ipynb)
 
+#### Work under Review
+- **Zhu, D.** (2024). At the intersection of childism and gender: A sentiment analysis of
+”baby girl” and ”baby boy” corpus on Chinese social media. In Proceedings of *the 75th
+International Communication Association*.
+- Wirz, D., Schneider, F., Sch¨ afer, S., **Zhu, D.**, & Tan, Y. (2024). TikTok news and (the illusion of) knowledge: An experiment combining self-reports and physiological measurements. In Proceedings of *the 75th International Communication Association*.[Pre-registration](https://osf.io/cefdh?view_only=28d8c6b11c0f42e68768655d6e9227a9)
 
 #### Work in Progress
-- [2] Strycharz, J., Möller, M., Ho, J., **Zhu, D.**, Huo, Q. *Developing a Comparative Media Dataset from Web Crawl Data for Communication Science Research.*<br>
-- [3] Wirz, D., Schäfer, S., Schneider, F., **Zhu, D.**, Tan, Y. *TikTok News and the Illusion of Knowledge: Effects of Thematic Framing and Emotionalization.* 
+- Strycharz, J., Möller, M., Ho, J., **Zhu, D.**, Huo, Q. Developing a Comparative Media Dataset from Web Crawl Data for Communication Science Research.<br>
 
 #### Industry Publications
 - [Media Analysis: Articles Published on News Platforms](/Articles)
