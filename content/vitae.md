@@ -16,7 +16,7 @@ slug: "/vitae"
 
 #### Conference
 - [1] **Zhu, D.** (2024, June 23). Are Housewives Getting Depressed? A Machine Learning Study Based on YouTube. *the 74th Annual Conference of International Communication Association Regional Hub*, Beijing, China. [[link]](/housewives) [[dataset]](https://github.com/CeciliaZhu1997/mycode/blob/main/Housewife_data_collection.ipynb?short_path=b32dc21)  [[code]](https://github.com/CeciliaZhu1997/mycode/blob/main/Housewife_data_analysis.ipynb)
-- [2] Wirz, D., Schneider, F., Schäfer, S., **Zhu, D.**, & Tan, Y. (2024). TikTok news and (the illusion of) knowledge: An experiment combining self-reports and physiological measurements. *the 75th Annual Conference of the International Communication Association*, Denver, USA. [[Pre-registration]](https://osf.io/cefdh?view_only=28d8c6b11c0f42e68768655d6e9227a9)
+- [2] Wirz, D., Schneider, F., Schäfer, S., **Zhu, D.**, & Tan, Y. (2025). TikTok news and (the illusion of) knowledge: An experiment combining self-reports and physiological measurements. *the 75th Annual Conference of the International Communication Association*, Denver, USA. [[Pre-registration]](https://osf.io/cefdh?view_only=28d8c6b11c0f42e68768655d6e9227a9)
 
 #### Work in Progress
 - [3] Strycharz, J., Möller, M., Ho, J., **Zhu, D.**, Huo, Q. Developing a Comparative Media Dataset from Web Crawl Data for Communication Science Research.<br>
