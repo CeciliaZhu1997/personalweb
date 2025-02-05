@@ -1,4 +1,4 @@
 a {
-  text-decoration: none;  /* 去掉默认的下划线 */
-  border-bottom: 1px dashed;  /* 添加虚线样式 */
+  text-decoration: underline;  /* 添加下划线 */
+  border-bottom: none;  /* 去除虚线 */
 }
