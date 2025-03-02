@@ -31,7 +31,6 @@ slug: "/vitae"
 
 ## Working Experience
 
-- 02/2023 ~ 06/2023, Operation Specialist, Department of Operation, DoraHacks, Remote<br>
 - 03/2020 ~ 02/2023, Marketing Specialist, Department of Global Marketing, Xiaomi, Beijing, China<br>
 - 11/2017 ~ 03/2020, Freelancer, Platform and Content Group, Tencent, Remote<br>
 - 06/2019 ~ 09/2019, Intern, The Chinese Weekly, Kylin Prime Group, London, the UK<br>
