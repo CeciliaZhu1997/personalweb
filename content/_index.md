@@ -15,5 +15,5 @@ Prior to this, I completed my first master’s degree at the [London School of E
 - 02/2025  We presented our paper at Etmaal van de Communicatiewetenschap 2025 in Bruges.
 - 01/2025  Our paper, *The TikTok-ization of News: Effects on (the Illusion of) Knowledge*, has been accepted for the 75th Annual Conference of the International Communication Association.
 - 06/2024  One of my papers has been accepted for the 74th Annual Conference of International Communication Association Regional Hub.
-- 05/2024  I have started a new internship with [Joanna Strycharz](https://scholar.google.com/citations?hl=nl&user=JV-KAo4AAAAJ), [Justin Ho](https://scholar.google.com/citations?hl=en&user=EukNVL0AAAAJ&view_op=list_works&sortby=pubdate), [Marthe Möller](https://scholar.google.com/citations?user=rKWov8wAAAAJ&hl=en).
+- 05/2024  I have started a new internship with [Joanna Strycharz](https://scholar.google.com/citations?hl=nl&user=JV-KAo4AAAAJ).
 - 03/2024  I joined a TikTok research project with [Dominique Wirz](https://scholar.google.com/citations?hl=de&user=Z1uaZaEAAAAJ&view_op=list_works&sortby=pubdate), [Frank Schneider](https://scholar.google.com/citations?hl=en&user=ev269g0AAAAJ&view_op=list_works&sortby=pubdate), [Svenja Schäfer](https://scholar.google.com/citations?user=r48_ZVMAAAAJ&hl=en).
