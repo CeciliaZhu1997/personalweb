@@ -25,7 +25,7 @@ slug: "/vitae"
 - [Media Analysis: Articles Published on News Platforms](/Articles)
 
 ## Research Experience
-- 05/2024 ~ 12/2024, Research assistant, Digital Communication Methods Lab, University of Amsterdam, Supervised by [Joanna Strycharz](https://scholar.google.com/citations?hl=nl&user=JV-KAo4AAAAJ), [Justin Ho](https://scholar.google.com/citations?hl=en&user=EukNVL0AAAAJ&view_op=list_works&sortby=pubdate), [Marthe Möller](https://scholar.google.com/citations?user=rKWov8wAAAAJ&hl=en)<sup>[3]</sup>
+- 05/2024 ~ 12/2024, Research assistant, Digital Communication Methods Lab, University of Amsterdam, Supervised by [Joanna Strycharz](https://scholar.google.com/citations?hl=nl&user=JV-KAo4AAAAJ)<sup>[3]</sup>
 - 03/2024.03 ~ 12/2024, Research assistant, Amsterdam School of Communication Research (ASCoR), University of Amsterdam, Supervised by [Dominique Wirz](https://scholar.google.com/citations?hl=de&user=Z1uaZaEAAAAJ&view_op=list_works&sortby=pubdate), [Frank Schneider](https://scholar.google.com/citations?hl=en&user=ev269g0AAAAJ&view_op=list_works&sortby=pubdate), [Svenja Schäfer](https://scholar.google.com/citations?user=r48_ZVMAAAAJ&hl=en)<sup>[2]</sup><br>
 [More](/research)
 
