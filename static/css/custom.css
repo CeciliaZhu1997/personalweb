@@ -1,18 +1,12 @@
 a {
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-underline-offset: 5px;
   border-bottom: none;
-  background-image: linear-gradient(to right, currentColor 4px, transparent 4px);
-  background-size: 14px 1px;
-  background-repeat: repeat-x;
-  background-position: left bottom;
-  padding-bottom: 4px;
-  box-decoration-break: clone;
-  -webkit-box-decoration-break: clone;
 }
 
 a:hover {
   color: #9c3d2e;
-  background-image: linear-gradient(to right, #9c3d2e 4px, transparent 4px);
 }
 
 .main {
