@@ -1,8 +1,16 @@
 a {
-  text-decoration: underline;
-  text-decoration-style: dashed;
-  text-underline-offset: 5px;
+  text-decoration: none;
   border-bottom: none;
+  background-image: linear-gradient(to right, currentColor 4px, transparent 4px);
+  background-size: 12px 1px;
+  background-repeat: repeat-x;
+  background-position: 0 bottom 5px;
+  padding-bottom: 1px;
+}
+
+a:hover {
+  color: #9c3d2e;
+  background-image: linear-gradient(to right, #9c3d2e 4px, transparent 4px);
 }
 
 a:hover {
@@ -13,35 +21,47 @@ a:hover {
   border-left: 1px solid black;
 }
 
-/* 从左侧竖排导航改为顶部横向导航 */
+/* 头像左侧 + 姓名与导航右侧堆叠 */
 
 .masthead {
-  width: auto;
-  float: none;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto auto;
+  column-gap: 24px;
+  align-items: start;
+  text-align: left;
+  width: 100%;
   padding: 30px 0;
-  text-align: center;
   margin-left: 0;
   border-bottom: 1px solid black;
 }
 
 .masthead h1 {
-  text-align: center;
-  font-size: 36px;
-  margin-bottom: 10px;
+  grid-column: 1;
+  grid-row: 1 / 3;
+  margin: 0;
 }
 
 .masthead .tagline {
-  text-align: center;
+  grid-column: 2;
+  grid-row: 1;
+  align-self: end;
+  text-align: left;
+  font-size: 34px;
+  font-style: italic;
+  margin: 0;
 }
 
 .masthead .menu {
+  grid-column: 2;
+  grid-row: 2;
   direction: ltr;
-  margin-top: 15px;
+  margin-top: 12px;
 }
 
 .masthead .menu ul {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 30px;
   list-style: none;
   padding: 0;

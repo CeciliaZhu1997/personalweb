@@ -12,7 +12,6 @@ Before UC Davis, I completed my research master's in [Communication Science at t
 - Bias and stereotypes in generative AI and large language models
 - Morality and value alignment in AI systems
 - AI persuasion and its effects on human attitudes and behavior
-- Political communication in the age of generative AI
 
 ## Selected Publications
 - Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026). Algorithmic Portrayals of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups. *Social Science & Medicine*. [Under Revision]
@@ -31,21 +30,19 @@ Before UC Davis, I completed my research master's in [Communication Science at t
 - BA, Journalism, Renmin University of China (2014–2018)
   - Exchange Program, Communication, National Chengchi University (2016-2017)
 
-## Contact Information
-[Email](mailto:zddzhu@ucdavis.edu) | [LinkedIN](https://www.linkedin.com/in/dongdong-zhu-aa3033129/?locale=en_US) | [GitHub](https://github.com/CeciliaZhu1997)
-
 ## News
 
 **Recent**
-- 2026  Presented *A Mirror of Reality? Visual Representations of Female Politicians in the EU Across Search Engines and Generative AI* at the 76th ICA Annual Conference, Cape Town, South Africa.
-- 2026  Presented *Bias in Multimodal Generative AI Evaluations of Vaping Risk Perceptions and Willingness* (with Kim, Kim, Niederdeppe, Byrne) at ICA 2026, Cape Town, South Africa.
-- 2026  Received the Top Research Paper Award at the 109th AEJMC Annual Conference, New Orleans, for *Algorithmic Portrayals of Mental Health Stigma* (with Kim, Kim, Kim).
-- 2026  Presented *Whose Morality? Uncovering Ideological Asymmetries in How Large Language Models Judge Political Arguments* at CSS Escape 2026, Davis, CA.
-- 2026  Presented *Banned from Detecting Shadowbans* (with Khanna, Ausloos, Leerssen) at Etmaal van de Communicatiewetenschap, Arnhem, Netherlands.
-- 2026  Served as Panel Chair, "Governance, Extremism, and Regulatory Questions," Comm Horizons 2026, Davis, CA.
-- 2026  Serving as Reviewer, 76th ICA Annual Conference.
-
-**Past**
-- 2025  Presented *TikTok News and (the Illusion of) Knowledge* at the 75th ICA Annual Conference, Denver, USA.
-- 2024  Presented *Are Housewives Getting Depressed? A Machine Learning Study Based on YouTube* at the 74th ICA Regional Hub, Beijing, China.
+- 2026.06   Presented *A Mirror of Reality? Visual Representations of Female Politicians in the EU Across Search Engines and Generative AI* at the 76th ICA Annual Conference, Cape Town, South Africa.
+- 2026.06   Presented *Bias in Multimodal Generative AI Evaluations of Vaping Risk Perceptions and Willingness* (with Kim, Kim, Niederdeppe, Byrne) at ICA 2026, Cape Town, South Africa.
+- 2026.06   Received the Top Research Paper Award at the 109th AEJMC Annual Conference, New Orleans, for *Algorithmic Portrayals of Mental Health Stigma* (with Kim, Kim, Kim).
+- 2026.05   Served as Panel Chair, "Governance, Extremism, and Regulatory Questions," Comm Horizons 2026, Davis, CA.
+- 2026.05   Presented *A Mirror of Reality? Visual Representations of Female Politicians in the EU Across Search Engines and Generative AI* at Comm Horizons 2026, Davis, CA.
+- 2026.05   Presented *Bias in Multimodal Generative AI Evaluations of Vaping Risk Perceptions and Willingness* (with Kim, Kim, Niederdeppe, Byrne) at Comm Horizons 2026, Davis, CA.
+- 2026.02   Presented *A Mirror of Reality? Visual Representations of Female Politicians in the EU Across Search Engines and Generative AI* at CSS Escape 2026, Davis, CA.
+- 2026.02   Presented *Whose Morality? Uncovering Ideological Asymmetries in How Large Language Models Judge Political Arguments* at CSS Escape 2026, Davis, CA.
+- 2026.02   Presented *Banned from Detecting Shadowbans* (with Khanna, Ausloos, Leerssen) at Etmaal van de Communicatiewetenschap, Arnhem, Netherlands.
+- 2025.11   Serving as Reviewer, 76th ICA Annual Conference.
+- 2025.06   Presented *TikTok News and (the Illusion of) Knowledge* at the 75th ICA Annual Conference, Denver, USA.
+- 2024.06   Presented *Are Housewives Getting Depressed? A Machine Learning Study Based on YouTube* at the 74th ICA Regional Hub, Beijing, China.
 Done
