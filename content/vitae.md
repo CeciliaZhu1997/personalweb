@@ -8,8 +8,8 @@ slug: "/vitae"
 [Download CV (PDF)](/files/Dongdong_Zhu_CV.pdf)
 
 ## Education
-- PhD Student, Department of Communication, University of California, Davis, Sept. 2025 – June 2030 (Expected). Supervised by Soojong Kim
-- Research Master, Communication Science, University of Amsterdam, Sept. 2023 – June 2025. Supervised by Anne Kroon
+- PhD Student, Department of Communication, University of California, Davis, Sept. 2025 – June 2030 (Expected). Supervised by [Soojong Kim](https://communication.ucdavis.edu/people/soojong-kim)
+- Research Master, Communication Science, University of Amsterdam, Sept. 2023 – June 2025. Supervised by [Anne Kroon](https://www.uva.nl/en/profile/k/r/a.c.kroon/a.c.kroon.html?cb)
 - MSc, Media and Communications, London School of Economics and Political Science, Sept. 2018 – Nov. 2019
 - BA, Journalism, Renmin University of China, Sept. 2014 – June 2018
   - Exchange Student, Communication, National Chengchi University, Sept. 2016 – Jan. 2017
@@ -46,9 +46,9 @@ slug: "/vitae"
   - 74th Annual Conference of International Communication Association (ICA) Regional Hub, Beijing, China
   
 ## Research Experience
-- Research Assistant, the Invisible Lab, University of Amsterdam, May – Aug. 2025. Supervised by Saurabh Khanna
-- Research Assistant, Digital Communication Methods Lab, University of Amsterdam, May – Dec. 2024. Supervised by Joanna Strycharz
-- Research Assistant, ASCoR, University of Amsterdam, Mar. – Dec. 2024. Supervised by Dominique Wirz, Svenja Schäfer, Frank Schneider
+- Research Assistant, the Invisible Lab, University of Amsterdam, May – Aug. 2025. Supervised by [Saurabh Khanna](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html)
+- Research Assistant, Digital Communication Methods Lab, University of Amsterdam, May – Dec. 2024. Supervised by [Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html)
+- Research Assistant, ASCoR, University of Amsterdam, Mar. – Dec. 2024. Supervised by [Dominique Wirz](https://www.uva.nl/en/profile/w/i/d.s.w.wirz/d.s.w.wirz.html), [Svenja Schäfer](https://www.wur.nl/en/persons/sj-svenja-schafer), [Frank Schneide](https://medienpsychologie.ifp.uni-mainz.de/en/frank-schneider/)
 
 ## Teaching Experience
 - Teaching Assistant, CMN 001: Introduction to Public Speaking, Department of Communication, University of California, Davis, Sept. 2025 – Aug. 2026
