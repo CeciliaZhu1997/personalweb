@@ -23,7 +23,7 @@ slug: "/vitae"
 - [5] Kim, K., Kim, S., Niederdeppe, J., Byrne, S., & **Zhu, D.** (2026). Bias in Multimodal Generative AI Evaluations of Vaping Risk Perceptions and Willingness: Comparison with Human Reference Data from a Vaping Warning Message Effect Experiment. Presented at the 76th Annual Conference of International Communication Association (ICA), Cape Town, South Africa; Comm Horizons 2026, Davis, USA.
 - [4] **Zhu, D.** (2026). Whose Morality? Uncovering Ideological Asymmetries in How Large Language Models Judge Political Arguments. Presented at the CSS Escape 2026, Davis, USA.
 - [3] **Zhu, D.**, Khanna, S., Ausloos, J., & Leerssen, P. (2026). Banned from Detecting Shadowbans. Presented at the Etmaal van de Communicatiewetenschap, Arnhem, Netherlands.
-- [2] Wirz, D., Schneider, F., Schäfer, S., **Zhu, D.**, & Tan, Y. (2025). TikTok News and (the Illusion of) Knowledge: An Experiment Combining Self-reports and Physiological Measurements. Presented at the 75th Annual Conference of International Communication Association (ICA), Denver, USA；Etmaal van de Communicatiewetenschap 2025，Bruges, Belgium.
+- [2] Wirz, D., Schneider, F., Schäfer, S., **Zhu, D.**, & Tan, Y. (2025). TikTok News and (the Illusion of) Knowledge: An Experiment Combining Self-reports and Physiological Measurements. Presented at the 75th Annual Conference of International Communication Association (ICA), Denver, USA；Etmaal van de Communicatiewetenschap 2025, Bruges, Belgium.
 - [1] **Zhu, D.** (2024). Are housewives getting depressed? A machine learning study based on YouTube. Presented at the 74th Annual Conference of International Communication Association (ICA) Regional Hub, Beijing, China.
 
 ## Research Experience
