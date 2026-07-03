@@ -4,8 +4,8 @@ a {
   background-image: linear-gradient(to right, currentColor 4px, transparent 4px);
   background-size: 16px 1px;
   background-repeat: repeat-x;
-  background-position: 0 bottom 5px;
-  padding-bottom: 1px;
+  background-position: left bottom;
+  padding-bottom: 4px;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
