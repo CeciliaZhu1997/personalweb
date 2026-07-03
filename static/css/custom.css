@@ -64,6 +64,10 @@ body {
   font-family: "Crimson Pro", Palatino, "Palatino Linotype", "Book Antiqua", Optima, 'source-han-serif-sc', 'Source Han Serif SC', 'Source Han Serif CN', 'Noto Serif CJK SC', 'Microsoft YaHei', sans-serif;
 }
 
+body {
+  font-size: 18px;
+}
+
 .main {
   width: 100%;
   margin-left: 0;
