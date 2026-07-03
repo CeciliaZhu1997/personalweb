@@ -1,49 +1,61 @@
 ---
 author:
-date: "2025-02-04"
+date: "2026-07-03"
 title: Curriculum Vitae
 slug: "/vitae"
 ---
 
+[Download CV (PDF)](/files/Dongdong_Zhu_CV.pdf)
 
 ## Education
-- 09/2023 ~ 06/2025, Research Master, Department of Communication Science, ASCoR, University of Amsterdam
-- 09/2018 ~ 11/2019, Master of Science, Department of Media and Communications, London School of Economics and Political Science
-- 09/2014 ~ 06/2018, Bachelor of Arts, School of Journalism, Renmin University of China
-- 09/2016 ~ 01/2017, Exchange Student, College of Communication, National Chengchi University
+- PhD Student, Department of Communication, University of California, Davis, Sept. 2025 – June 2030 (Expected). Supervised by Soojong Kim
+- Research Master, Communication Science, University of Amsterdam, Sept. 2023 – June 2025. Supervised by Anne Kroon
+- MSc, Media and Communications, London School of Economics and Political Science, Sept. 2018 – Nov. 2019
+- BA, Journalism, Renmin University of China, Sept. 2014 – June 2018
+  - Exchange Student, Communication, National Chengchi University, Sept. 2016 – Jan. 2017
 
 ## Publications
+- Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026). Algorithmic Portrayals of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups. *Social Science & Medicine*. [Under Revision]
 
-#### Conference
-- [1] **Zhu, D.** (2024, June 23). Are Housewives Getting Depressed? A Machine Learning Study Based on YouTube. *the 74th Annual Conference of International Communication Association Regional Hub*, Beijing, China. [[link]](/housewives) [[dataset]](https://github.com/CeciliaZhu1997/mycode/blob/main/Housewife_data_collection.ipynb?short_path=b32dc21)  [[code]](https://github.com/CeciliaZhu1997/mycode/blob/main/Housewife_data_analysis.ipynb)
-- [2] Wirz, D., Schneider, F., Schäfer, S., **Zhu, D.**, & Tan, Y. (2025). TikTok news and (the illusion of) knowledge: An experiment combining self-reports and physiological measurements. *the 75th Annual Conference of the International Communication Association*, Denver, USA. [[Pre-registration]](https://osf.io/cefdh?view_only=28d8c6b11c0f42e68768655d6e9227a9)
-
-#### Work in Progress
-- [3] Strycharz, J., Möller, M., Ho, J., **Zhu, D.**, Huo, Q. Developing a Comparative Media Dataset from Web Crawl Data for Communication Science Research.<br>
-
-#### Industry Publications
-- [Media Analysis: Articles Published on News Platforms](/Articles)
+## Conference Presentations
+- Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026). Algorithmic portrayals of mental health stigma: Quantifying the gap between AI estimations and human perceptions across gender groups. Presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC), New Orleans, LA, USA. **Top Research Paper Award**.
+- **Zhu, D.** (2026). A Mirror of Reality? Visual Representations of Female Politicians in the EU Across Search Engines and Generative AI. Presented at the 76th Annual Conference of International Communication Association (ICA), Cape Town, South Africa; CSS Escape 2026, Davis, USA.
+- Kim, K., Kim, S., Niederdeppe, J., Byrne, S., & **Zhu, D.** (2026). Bias in Multimodal Generative AI Evaluations of Vaping Risk Perceptions and Willingness: Comparison with Human Reference Data from a Vaping Warning Message Effect Experiment. Presented at the 76th Annual Conference of International Communication Association (ICA), Cape Town, South Africa; Comm Horizons 2026, Davis, USA.
+- **Zhu, D.** (2026). Whose Morality? Uncovering Ideological Asymmetries in How Large Language Models Judge Political Arguments. Presented at the CSS Escape 2026, Davis, USA.
+- **Zhu, D.**, Khanna, S., Ausloos, J., & Leerssen, P. (2026). Banned from Detecting Shadowbans. Presented at the Etmaal van de Communicatiewetenschap, Arnhem, Netherlands.
+- Wirz, D., Schneider, F., Schäfer, S., **Zhu, D.**, & Tan, Y. (2025). TikTok News and (the Illusion of) Knowledge: An Experiment Combining Self-reports and Physiological Measurements. Presented at the 75th Annual Conference of International Communication Association (ICA), Denver, USA；Etmaal van de Communicatiewetenschap 2025，Bruges, Belgium.
+- **Zhu, D.** (2024). Are housewives getting depressed? A machine learning study based on YouTube. Presented at the 74th Annual Conference of International Communication Association (ICA) Regional Hub, Beijing, China.
 
 ## Research Experience
-- 05/2024 ~ 12/2024, Research assistant, Digital Communication Methods Lab, University of Amsterdam, Supervised by [Joanna Strycharz](https://scholar.google.com/citations?hl=nl&user=JV-KAo4AAAAJ)<sup>[3]</sup>
-- 03/2024.03 ~ 12/2024, Research assistant, Amsterdam School of Communication Research (ASCoR), University of Amsterdam, Supervised by [Dominique Wirz](https://scholar.google.com/citations?hl=de&user=Z1uaZaEAAAAJ&view_op=list_works&sortby=pubdate), [Frank Schneider](https://scholar.google.com/citations?hl=en&user=ev269g0AAAAJ&view_op=list_works&sortby=pubdate), [Svenja Schäfer](https://scholar.google.com/citations?user=r48_ZVMAAAAJ&hl=en)<sup>[2]</sup><br>
-[More](/research)
+- Research Assistant, the Invisible Lab, University of Amsterdam, May – Aug. 2025. Supervised by Saurabh Khanna
+- Research Assistant, Digital Communication Methods Lab, University of Amsterdam, May – Dec. 2024. Supervised by Joanna Strycharz
+- Research Assistant, ASCoR, University of Amsterdam, Mar. – Dec. 2024. Supervised by Dominique Wirz, Svenja Schäfer, Frank Schneider
 
-## Working Experience
+## Teaching Experience
+- Teaching Assistant, CMN 001: Introduction to Public Speaking, Department of Communication, University of California, Davis, Sept. 2025 – Aug. 2026
 
-- 03/2020 ~ 02/2023, Marketing Specialist, Department of Global Marketing, Xiaomi, Beijing, China<br>
-- 11/2017 ~ 03/2020, Freelancer, Platform and Content Group, Tencent, Remote<br>
-- 06/2019 ~ 09/2019, Intern, The Chinese Weekly, Kylin Prime Group, London, the UK<br>
-- 05/2017 ~ 08/2017, Intern, MSL China, Publicis Groupe, Beijing, China<br>
-- 02/2017 ~ 05/2017, Intern, China Central Television, Beijing, China<br>
+## Academic Service
+- Panel Chair, "Governance, Extremism, and Regulatory Questions", Comm Horizons 2026, Davis, CA, USA
+- Reviewer, 76th Annual Conference of the International Communication Association (ICA), Cape Town, South Africa, 2026
 
-## Honor & Awards
-- National Encouragement Scholarship, Ministry of Education of China (1/22), 2017<br>
-- Outstanding Student Leader Award, Renmin University of China, 2017<br>
-- Second Prize, Undergraduate Research Foundation, Renmin University of China, 2017<br>
-- Excellent Works Prize, AD Campus Spring Competition of China, 2017<br>
-- Third Prize of Scholarship, Renmin University of China, 2016<br>
-- Outstanding Student Leader Award, Renmin University of China, 2016<br>
-- National Encouragement Scholarship, Ministry of Education of China (1/22), 2015<br>
+## Professional Experience
+- Marketing Specialist, Global Marketing Department, Xiaomi Inc., Beijing, China, Mar. 2020 – Feb. 2023
+- Freelancer, Platform and Content Group, Tencent Inc., Remote, Nov. 2017 – Mar. 2020
 
+[Marketing Achievements & Media Articles →](/career)
 
+## Grants
+- Small Grant, Department of Communication, University of California, Davis ($1,000), 2026
+- Thesis Grant, Digital Communication Methods Lab, University of Amsterdam (€500), 2025
+
+## Honors & Awards
+- National Encouragement Scholarship, Renmin University of China (¥5,000), 2017, 2015
+- Outstanding Student Leader Award, Renmin University of China, 2017, 2016
+- Second Prize, Undergraduate Research Foundation, Renmin University of China, 2017
+- Excellent Works Prize, AD Campus Spring Competition (National Level), 2017
+- Third Prize Scholarship, Renmin University of China (¥1,000), 2016
+
+## Skills
+- **Languages**: Mandarin (Native), English (Fluent, IELTS: 8.0)
+- **Programming**: Python, R (Data Cleaning, Visualization, Machine Learning)
+- **Tools**: LaTeX, SPSS, Gephi (Network Analysis), Adobe Photoshop, Premiere Pro

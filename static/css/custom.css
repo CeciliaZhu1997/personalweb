@@ -1,4 +1,14 @@
 a {
-  text-decoration: underline;  /* 添加下划线 */
-  border-bottom: none;  /* 去除虚线 */
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-underline-offset: 5px;
+  border-bottom: none;
+}
+
+a:hover {
+  color: #9c3d2e;
+}
+
+.main {
+  border-left: 1px solid black;
 }

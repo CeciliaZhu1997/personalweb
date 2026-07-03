@@ -4,16 +4,48 @@ title: home
 
 Hello!
 
-I’m Dongdong, a research master’s student in [Communication Science at the University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/research-masters/communication-science/communication-science-research-msc.html). My research focuses on the social implications of artificial intelligence and algorithms, viewed through critical lenses such as feminism and decolonial digital activism. I use computational methods to conduct this work.
+I'm Dongdong Zhu, a PhD student in the [Department of Communication at the University of California, Davis](https://communication.ucdavis.edu/), supervised by [Soojong Kim](https://communication.ucdavis.edu/people/soojong-kim). My research examines bias, stereotypes, morality of AI, and their impact on human's behavior, primarily through computational methods.
 
-Prior to this, I completed my first master’s degree at the [London School of Economics and Political Science](https://www.lse.ac.uk/about-lse) and my bachelor’s degree at [Renmin University of China](https://en.ruc.edu.cn/about.html#about2). Motivated by a desire to know the causes of things — a principle I adopted at LSE — I returned to academia at 25 after four years of career exploration in the tech industry.
+Before UC Davis, I completed my research master's in [Communication Science at the University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/research-masters/communication-science/communication-science-research-msc.html) (supervised by Anne Kroon), a master's at the [London School of Economics and Political Science](https://www.lse.ac.uk/about-lse), and my bachelor's at [Renmin University of China](https://en.ruc.edu.cn/about.html#about2).
+
+## Research Interests
+- Bias and stereotypes in generative AI and large language models
+- Morality and value alignment in AI systems
+- AI persuasion and its effects on human attitudes and behavior
+- Political communication in the age of generative AI
+
+## Selected Publications
+- Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026). Algorithmic Portrayals of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups. *Social Science & Medicine*. [Under Revision]
+
+[Full list on CV →](/vitae)
+
+## Honors & Awards
+- Top Research Paper Award, 109th Annual AEJMC Conference (2026)
+- Small Grant, Department of Communication, UC Davis ($1,000, 2026)
+- Thesis Grant, Digital Communication Methods Lab, University of Amsterdam (€500, 2025)
+
+## Education
+- PhD, Communication, University of California, Davis (2025–2030 expected)
+- Research MSc, Communication Science, University of Amsterdam (2023–2025)
+- MSc, Media and Communications, LSE (2018–2019)
+- BA, Journalism, Renmin University of China (2014–2018)
+  - Exchange Program, Communication, National Chengchi University (2016-2017)
 
 ## Contact Information
-[Email](mailto:dongdong.zhu@student.uva.nl) | [LinkedIN](https://www.linkedin.com/in/dongdong-zhu-aa3033129/?locale=en_US) | [GitHub](https://github.com/CeciliaZhu1997)
+[Email](mailto:zddzhu@ucdavis.edu) | [LinkedIN](https://www.linkedin.com/in/dongdong-zhu-aa3033129/?locale=en_US) | [GitHub](https://github.com/CeciliaZhu1997)
 
 ## News
-- 02/2025  We presented our paper at Etmaal van de Communicatiewetenschap 2025 in Bruges.
-- 01/2025  Our paper, *The TikTok-ization of News: Effects on (the Illusion of) Knowledge*, has been accepted for the 75th Annual Conference of the International Communication Association.
-- 06/2024  One of my papers has been accepted for the 74th Annual Conference of International Communication Association Regional Hub.
-- 05/2024  I have started a new internship with [Joanna Strycharz](https://scholar.google.com/citations?hl=nl&user=JV-KAo4AAAAJ).
-- 03/2024  I joined a TikTok research project with [Dominique Wirz](https://scholar.google.com/citations?hl=de&user=Z1uaZaEAAAAJ&view_op=list_works&sortby=pubdate), [Frank Schneider](https://scholar.google.com/citations?hl=en&user=ev269g0AAAAJ&view_op=list_works&sortby=pubdate), [Svenja Schäfer](https://scholar.google.com/citations?user=r48_ZVMAAAAJ&hl=en).
+
+**Recent**
+- 2026  Presented *A Mirror of Reality? Visual Representations of Female Politicians in the EU Across Search Engines and Generative AI* at the 76th ICA Annual Conference, Cape Town, South Africa.
+- 2026  Presented *Bias in Multimodal Generative AI Evaluations of Vaping Risk Perceptions and Willingness* (with Kim, Kim, Niederdeppe, Byrne) at ICA 2026, Cape Town, South Africa.
+- 2026  Received the Top Research Paper Award at the 109th AEJMC Annual Conference, New Orleans, for *Algorithmic Portrayals of Mental Health Stigma* (with Kim, Kim, Kim).
+- 2026  Presented *Whose Morality? Uncovering Ideological Asymmetries in How Large Language Models Judge Political Arguments* at CSS Escape 2026, Davis, CA.
+- 2026  Presented *Banned from Detecting Shadowbans* (with Khanna, Ausloos, Leerssen) at Etmaal van de Communicatiewetenschap, Arnhem, Netherlands.
+- 2026  Served as Panel Chair, "Governance, Extremism, and Regulatory Questions," Comm Horizons 2026, Davis, CA.
+- 2026  Serving as Reviewer, 76th ICA Annual Conference.
+
+**Past**
+- 2025  Presented *TikTok News and (the Illusion of) Knowledge* at the 75th ICA Annual Conference, Denver, USA.
+- 2024  Presented *Are Housewives Getting Depressed? A Machine Learning Study Based on YouTube* at the 74th ICA Regional Hub, Beijing, China.
+Done
