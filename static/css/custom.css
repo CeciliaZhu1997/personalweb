@@ -91,3 +91,25 @@ body {
   font-size: 0.95em;
   color: #333;
 }
+
+details summary {
+  cursor: pointer;
+  list-style: none;
+  margin-bottom: 8px;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: "▸ ";
+}
+
+details[open] summary::before {
+  content: "▾ ";
+}
+
+details ul, details {
+  margin-top: 4px;
+}

@@ -23,13 +23,6 @@ Before UC Davis, I completed my research master's in [Communication Science at t
 - Small Grant, Department of Communication, UC Davis ($1,000, 2026)
 - Thesis Grant, Digital Communication Methods Lab, University of Amsterdam (€500, 2025)
 
-## Education
-- PhD, Communication, University of California, Davis (2025–2030 expected)
-- Research MSc, Communication Science, University of Amsterdam (2023–2025)
-- MSc, Media and Communications, LSE (2018–2019)
-- BA, Journalism, Renmin University of China (2014–2018)
-  - Exchange Program, Communication, National Chengchi University (2016-2017)
-
 ## News
 
 **Recent**
@@ -42,7 +35,12 @@ Before UC Davis, I completed my research master's in [Communication Science at t
 - 2026.02   Presented *A Mirror of Reality? Visual Representations of Female Politicians in the EU Across Search Engines and Generative AI* at CSS Escape 2026, Davis, CA.
 - 2026.02   Presented *Whose Morality? Uncovering Ideological Asymmetries in How Large Language Models Judge Political Arguments* at CSS Escape 2026, Davis, CA.
 - 2026.02   Presented *Banned from Detecting Shadowbans* (with Khanna, Ausloos, Leerssen) at Etmaal van de Communicatiewetenschap, Arnhem, Netherlands.
+
+<details>
+<summary><strong>Past</strong></summary>
+
 - 2025.11   Serving as Reviewer, 76th ICA Annual Conference.
 - 2025.06   Presented *TikTok News and (the Illusion of) Knowledge* at the 75th ICA Annual Conference, Denver, USA.
 - 2024.06   Presented *Are Housewives Getting Depressed? A Machine Learning Study Based on YouTube* at the 74th ICA Regional Hub, Beijing, China.
-Done
+
+</details>
