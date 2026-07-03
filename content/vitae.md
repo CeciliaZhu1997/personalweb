@@ -36,7 +36,7 @@ slug: "/vitae"
   - CSS Escape 2026, Davis, USA
 
 - [3] **Zhu, D.**, Khanna, S., Ausloos, J., & Leerssen, P. (2026). Banned from Detecting Shadowbans.
-  - Etmaal van de Communicatiewetenschap, Arnhem, Netherlands
+  - Etmaal van de Communicatiewetenschap 2026, Arnhem, Netherlands
 
 - [2] Wirz, D., Schneider, F., Schäfer, S., **Zhu, D.**, & Tan, Y. (2025). TikTok News and (the Illusion of) Knowledge: An Experiment Combining Self-reports and Physiological Measurements.
   - 75th Annual Conference of International Communication Association (ICA), Denver, USA
