@@ -52,8 +52,7 @@ slug: "/vitae"
 
 ## Teaching Experience
 - Department of Communication, University of California, Davis
-  - Teaching Assistant, CMN 001: Introduction to Public Speaking (Fall 2025, Winter 2026, Spring 2026, Summer Session II 2026)
-    Instructor: Professor Alisa Shubb (amshubb@ucdavis.edu)
+  - Teaching Assistant, CMN 001: Introduction to Public Speaking (Fall 2025, Winter 2026, Spring 2026, Summer Session II 2026), Instructor: Professor Alisa Shubb (amshubb@ucdavis.edu)
     
 
 ## Academic Service
