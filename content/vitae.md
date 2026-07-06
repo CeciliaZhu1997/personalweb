@@ -51,7 +51,10 @@ slug: "/vitae"
 - Research Assistant, ASCoR, University of Amsterdam, Mar. – Dec. 2024. Supervised by [Dominique Wirz](https://www.uva.nl/en/profile/w/i/d.s.w.wirz/d.s.w.wirz.html), [Svenja Schäfer](https://www.wur.nl/en/persons/sj-svenja-schafer), [Frank Schneide](https://medienpsychologie.ifp.uni-mainz.de/en/frank-schneider/)
 
 ## Teaching Experience
-- Teaching Assistant, CMN 001: Introduction to Public Speaking, Department of Communication, University of California, Davis, Sept. 2025 – Aug. 2026
+- Department of Communication, University of California, Davis
+  - Teaching Assistant, CMN 001: Introduction to Public Speaking (Fall 2025, Winter 2026, Spring 2026, Summer Session II 2026)
+    Instructor: Professor Alisa Shubb (amshubb@ucdavis.edu)
+    
 
 ## Academic Service
 - Panel Chair, "Governance, Extremism, and Regulatory Questions", Comm Horizons 2026, Davis, CA, USA
