@@ -54,7 +54,6 @@ slug: "/vitae"
 - Department of Communication, University of California, Davis
   - Teaching Assistant, CMN 001: Introduction to Public Speaking (Fall 2025, Winter 2026, Spring 2026, Summer Session II 2026), Instructor: Professor Alisa Shubb (amshubb@ucdavis.edu)
     
-
 ## Academic Service
 - Panel Chair, "Governance, Extremism, and Regulatory Questions", Comm Horizons 2026, Davis, CA, USA
 - Reviewer, 76th Annual Conference of the International Communication Association (ICA), Cape Town, South Africa, 2026

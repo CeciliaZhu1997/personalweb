@@ -15,9 +15,12 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "Vitae"
+    - name: "CV"
       url: "/vitae/"
       weight: 2
+    - name: "Tools"
+      url: "/tools/"
+      weight: 3
 
 params:
   description: "Dongdong Zhu"

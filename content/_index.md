@@ -2,7 +2,7 @@
 title: home
 ---
 
-Hello!
+Hi!
 
 I'm Dongdong Zhu, a PhD student in the [Department of Communication at the University of California, Davis](https://communication.ucdavis.edu/), supervised by [Dr. Soojong Kim](https://communication.ucdavis.edu/people/soojong-kim). My research examines bias, stereotypes, morality of AI, and their impact on human's behavior, primarily through computational methods.
 
