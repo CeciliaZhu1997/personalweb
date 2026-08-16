@@ -19,8 +19,6 @@ slug: "/vitae"
 
 ## Conference Presentations
 
-## Conference Presentations
-
 - [7] Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026).
   *Algorithmic portrayals of mental health stigma: Quantifying the gap between AI estimations and human perceptions across gender groups.*
   - **Presented at:** 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC), New Orleans, LA, USA.
