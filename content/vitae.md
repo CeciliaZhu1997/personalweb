@@ -1,6 +1,6 @@
 ---
 author:
-date: "2026-07-03"
+date: "2026-07-05"
 title: Curriculum Vitae
 slug: "/vitae"
 ---
@@ -19,31 +19,43 @@ slug: "/vitae"
 
 ## Conference Presentations
 
-- [7] Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026). Algorithmic portrayals of mental health stigma: Quantifying the gap between AI estimations and human perceptions across gender groups.
-  - 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC), New Orleans, LA, USA
-  - 🏆 **Top Research Paper Award**
+## Conference Presentations
 
-- [6] **Zhu, D.** (2026). A Mirror of Reality? Visual Representations of Female Politicians in the EU Across Search Engines and Generative AI.
-  - 76th Annual Conference of International Communication Association (ICA), Cape Town, South Africa
-  - Comm Horizons 2026, Davis, USA
-  - CSS Escape 2026, Davis, USA
+- [7] Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026).
+  *Algorithmic portrayals of mental health stigma: Quantifying the gap between AI estimations and human perceptions across gender groups.*
+  - **Presented at:** 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC), New Orleans, LA, USA.
+  - 🏆 **Top Faculty Conference Paper Award**, Communication Science, Health, Environment and Risk Division
 
-- [5] Kim, K., Kim, S., Niederdeppe, J., Byrne, S., & **Zhu, D.** (2026). Bias in Multimodal Generative AI Evaluations of Vaping Risk Perceptions and Willingness: Comparison with Human Reference Data from a Vaping Warning Message Effect Experiment.
-  - 76th Annual Conference of International Communication Association (ICA), Cape Town, South Africa
-  - Comm Horizons 2026, Davis, USA
+- [6] **Zhu, D.** (2026).
+  *A mirror of reality? Visual representations of female politicians in the EU across search engines and generative AI.*
+  - **Presented at:**
+    - 76th Annual Conference of the International Communication Association (ICA), Cape Town, South Africa.
+    - Comm Horizons 2026, Davis, CA, USA.
+    - CSS Escape 2026, Davis, CA, USA.
 
-- [4] **Zhu, D.** (2026). Whose Morality? Uncovering Ideological Asymmetries in How Large Language Models Judge Political Arguments.
-  - CSS Escape 2026, Davis, USA
+- [5] Kim, K., Kim, S., Niederdeppe, J., Byrne, S., & **Zhu, D.** (2026).
+  *Bias in multimodal generative AI evaluations of vaping risk perceptions and willingness: Comparison with human reference data from a vaping warning message effect experiment.*
+  - **Presented at:**
+    - 76th Annual Conference of the International Communication Association (ICA), Cape Town, South Africa.
+    - Comm Horizons 2026, Davis, CA, USA.
 
-- [3] **Zhu, D.**, Khanna, S., Ausloos, J., & Leerssen, P. (2026). Banned from Detecting Shadowbans.
-  - Etmaal van de Communicatiewetenschap 2026, Arnhem, Netherlands
+- [4] **Zhu, D.** (2026).
+  *Whose morality? Uncovering ideological asymmetries in how large language models judge political arguments.*
+  - **Presented at:** CSS Escape 2026, Davis, CA, USA.
 
-- [2] Wirz, D., Schneider, F., Schäfer, S., **Zhu, D.**, & Tan, Y. (2025). TikTok News and (the Illusion of) Knowledge: An Experiment Combining Self-reports and Physiological Measurements.
-  - 75th Annual Conference of International Communication Association (ICA), Denver, USA
-  - Etmaal van de Communicatiewetenschap 2025, Bruges, Belgium
+- [3] **Zhu, D.**, Khanna, S., Ausloos, J., & Leerssen, P. (2026).
+  *Banned from detecting shadowbans.*
+  - **Presented at:** Etmaal van de Communicatiewetenschap 2026, Arnhem, the Netherlands.
 
-- [1] **Zhu, D.** (2024). Are housewives getting depressed? A machine learning study based on YouTube.
-  - 74th Annual Conference of International Communication Association (ICA) Regional Hub, Beijing, China
+- [2] Wirz, D., Schneider, F., Schäfer, S., **Zhu, D.**, & Tan, Y. (2025).
+  *TikTok news and (the illusion of) knowledge: An experiment combining self-reports and physiological measurements.*
+  - **Presented at:**
+    - 75th Annual Conference of the International Communication Association (ICA), Denver, CO, USA.
+    - Etmaal van de Communicatiewetenschap 2025, Bruges, Belgium.
+
+- [1] **Zhu, D.** (2024).
+  *Are housewives getting depressed? A machine learning study based on YouTube.*
+  - **Presented at:** 74th Annual Conference of the International Communication Association (ICA) Regional Hub, Beijing, China.
   
 ## Research Experience
 - Research Assistant, the Invisible Lab, University of Amsterdam, May – Aug. 2025. Supervised by [Saurabh Khanna](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html)
