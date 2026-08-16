@@ -8,8 +8,8 @@ slug: "/vitae"
 [Download CV (PDF)](/files/Dongdong_Zhu_CV.pdf)
 
 ## Education
-- PhD Student, Department of Communication, University of California, Davis, Sept. 2025 – June 2030 (Expected). Supervised by [Soojong Kim](https://communication.ucdavis.edu/people/soojong-kim)
-- Research Master, Communication Science, University of Amsterdam, Sept. 2023 – June 2025. Supervised by [Anne Kroon](https://www.uva.nl/en/profile/k/r/a.c.kroon/a.c.kroon.html?cb)
+- PhD Student, Department of Communication, University of California, Davis, Sept. 2025 – June 2030 (Expected). Supervised by [Dr. Soojong Kim](https://communication.ucdavis.edu/people/soojong-kim)
+- Research Master, Communication Science, University of Amsterdam, Sept. 2023 – June 2025. Supervised by [Dr. Anne Kroon](https://www.uva.nl/en/profile/k/r/a.c.kroon/a.c.kroon.html?cb)
 - MSc, Media and Communications, London School of Economics and Political Science, Sept. 2018 – Nov. 2019
 - BA, Journalism, Renmin University of China, Sept. 2014 – June 2018
   - Exchange Student, Communication, National Chengchi University, Sept. 2016 – Jan. 2017
@@ -22,7 +22,7 @@ slug: "/vitae"
 - [7] Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026).
   *Algorithmic portrayals of mental health stigma: Quantifying the gap between AI estimations and human perceptions across gender groups.*
   - **Presented at:** 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC), New Orleans, LA, USA.
-  - 🏆 **Top Faculty Conference Paper Award**, Communication Science, Health, Environment and Risk Division
+    - 🏆 **Top Faculty Conference Paper Award**, Communication Science, Health, Environment and Risk Division, AEJMC
 
 - [6] **Zhu, D.** (2026).
   *A mirror of reality? Visual representations of female politicians in the EU across search engines and generative AI.*
@@ -58,11 +58,11 @@ slug: "/vitae"
 ## Research Experience
 - Research Assistant, the Invisible Lab, University of Amsterdam, May – Aug. 2025. Supervised by [Saurabh Khanna](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html)
 - Research Assistant, Digital Communication Methods Lab, University of Amsterdam, May – Dec. 2024. Supervised by [Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html)
-- Research Assistant, ASCoR, University of Amsterdam, Mar. – Dec. 2024. Supervised by [Dominique Wirz](https://www.uva.nl/en/profile/w/i/d.s.w.wirz/d.s.w.wirz.html), [Svenja Schäfer](https://www.wur.nl/en/persons/sj-svenja-schafer), [Frank Schneide](https://medienpsychologie.ifp.uni-mainz.de/en/frank-schneider/)
+- Research Assistant, ASCoR, University of Amsterdam, Mar. – Dec. 2024. Supervised by [Dominique Wirz](https://www.uva.nl/en/profile/w/i/d.s.w.wirz/d.s.w.wirz.html)
 
 ## Teaching Experience
-- Department of Communication, University of California, Davis
-  - Teaching Assistant, CMN 001: Introduction to Public Speaking (Fall 2025, Winter 2026, Spring 2026, Summer Session II 2026), Instructor: Professor Alisa Shubb (amshubb@ucdavis.edu)
+- Teaching Assistant, Department of Communication, University of California, Davis
+  - CMN 001: Introduction to Public Speaking (Fall 2025, Winter 2026, Spring 2026, Summer Session II 2026), Instructor: Prof. Alisa Shubb (amshubb@ucdavis.edu)
     
 ## Academic Service
 - Panel Chair, "Governance, Extremism, and Regulatory Questions", Comm Horizons 2026, Davis, CA, USA
@@ -71,6 +71,8 @@ slug: "/vitae"
 ## Professional Experience
 - Marketing Specialist, Global Marketing Department, Xiaomi Inc., Beijing, China, Mar. 2020 – Feb. 2023
 - Freelancer, Platform and Content Group, Tencent Inc., Remote, Nov. 2017 – Mar. 2020
+- Intern, Chinese Weekly, Kylin Prime Group, London, June 2019 - Sept. 2019
+- Intern, MSL Group, Publicis Groupe, Beijing, May 2017 - Aug. 2017
 
 [Marketing Achievements & Media Articles →](/career)
 
@@ -86,6 +88,5 @@ slug: "/vitae"
 - Third Prize Scholarship, Renmin University of China (¥1,000), 2016
 
 ## Skills
-- **Languages**: Mandarin (Native), English (Fluent, IELTS: 8.0)
-- **Programming**: Python, R (Data Cleaning, Visualization, Machine Learning)
-- **Tools**: LaTeX, SPSS, Gephi (Network Analysis), Adobe Photoshop, Premiere Pro
+- **Languages**: Mandarin (Native), English (Advanced, IELTS: 8.0), French (Beginner)
+- **Programming**: Python, R
