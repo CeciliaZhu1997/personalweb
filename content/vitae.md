@@ -18,6 +18,9 @@ slug: "/vitae"
 - Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026). Algorithmic Portrayals of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups. *Social Science & Medicine*. [Under Revision]
 
 ## Conference Presentations
+- [8] Kim, H.,Kim, S., Zhu,D.,Lam, H. (2026).
+*When Can Multimodal AI Support Content Analysis? Evidence from Mental Health Stories on YouTube.*
+  - **Accepted by:** 60th Hawaii International Conference on System Sciences, Honolulu, HI, USA.
 
 - [7] Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026).
   *Algorithmic portrayals of mental health stigma: Quantifying the gap between AI estimations and human perceptions across gender groups.*
@@ -63,6 +66,8 @@ slug: "/vitae"
 ## Teaching Experience
 - Teaching Assistant, Department of Communication, University of California, Davis
   - CMN 001: Introduction to Public Speaking (Fall 2025, Winter 2026, Spring 2026, Summer Session II 2026), Instructor: Prof. Alisa Shubb (amshubb@ucdavis.edu)
+  - CMN 161: Health Communication (Fall 2026), Instructor: Prof. Soojong Kim (sjokim@ucdavis.edu)
+  - CMN 165: Media & Health (Fall 2026), Instructor: Prof. Narine Yegiyan (nsyegiyan@ucdavis.edu)
     
 ## Academic Service
 - Panel Chair, "Governance, Extremism, and Regulatory Questions", Comm Horizons 2026, Davis, CA, USA
