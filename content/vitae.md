@@ -1,13 +1,11 @@
 ---
 author:
-date: "2026-07-05"
+date: "2026-10-05"
 title: Curriculum Vitae
 slug: "/vitae"
 ---
 
 [Download CV (PDF)](/files/Dongdong_Zhu_CV.pdf)
-
-[Education](#education) · [Publications](#publications) · [Presentations](#conference-presentations) · [Research](#research-experience) · [Teaching](#teaching-experience) · [Service](#academic-service) · [Professional Experience](#professional-experience) · [Grants](#grants) · [Awards](#honors--awards) · [Skills](#skills)
 
 ## Education
 - **PhD in Communication**, University of California, Davis\
