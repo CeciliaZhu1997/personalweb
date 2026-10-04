@@ -1,6 +1,6 @@
 ---
 author:
-date: "2026-10-05"
+date: "2026-10-01"
 title: Curriculum Vitae
 slug: "/vitae"
 ---
