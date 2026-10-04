@@ -4,7 +4,7 @@ title: home
 
 Hi!
 
-I'm Dongdong Zhu, a PhD student in the [Department of Communication at the University of California, Davis](https://communication.ucdavis.edu/), supervised by [Dr. Soojong Kim](https://communication.ucdavis.edu/people/soojong-kim). My research examines bias, stereotypes, morality of AI, and their impact on human's behavior, primarily through computational methods and experiments.
+I'm Dongdong, a PhD student in the [Department of Communication at the University of California, Davis](https://communication.ucdavis.edu/), supervised by [Dr. Soojong Kim](https://communication.ucdavis.edu/people/soojong-kim). My research examines bias, stereotypes, morality of AI, and their impact on human's behavior, primarily through computational methods and experiments.
 
 Before UC Davis, I completed my research master's in [Communication Science at the University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/research-masters/communication-science/communication-science-research-msc.html), a master's at the [London School of Economics and Political Science](https://www.lse.ac.uk/about-lse), and my bachelor's at [Renmin University of China](https://en.ruc.edu.cn/). Before pursuing my Research Master's, I worked as a global marketing specialist for more than three years, gaining professional experience in international marketing and communication.
 
@@ -14,7 +14,7 @@ Before UC Davis, I completed my research master's in [Communication Science at t
 - AI persuasion and its effects on human attitudes and behavior
 
 ## Selected Publications
-- Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026). Algorithmic Portrayals of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups. *Social Science & Medicine*. [Under Revision]
+- Kim, S., Kim, H., Kim, K., & **Zhu, D.** (2026). Algorithmic portrayals of mental health stigma: Quantifying the gap between AI estimations and human perceptions across gender groups. *Social Science & Medicine*. [DOI](https://doi.org/10.1016/j.socscimed.2026.119855)
 
 [Full list on CV →](/vitae)
 

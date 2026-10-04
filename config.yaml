@@ -24,7 +24,7 @@ menu:
 
 params:
   description: "Dongdong Zhu"
-  footer: "&copy; [D Zhu](/) | [Email](mailto:zddzhu@ucdavis.edu) | [LinkedIN](https://www.linkedin.com/in/dongdong-zhu-aa3033129/?locale=en_US) | [GitHub](https://github.com/CeciliaZhu1997)"
+  footer: "&copy; [D Zhu](/) | [Email](mailto:zddzhu@ucdavis.edu) | [Google Scholar](https://scholar.google.com/citations?user=xAt50j0AAAAJ&hl=en) | [LinkedIN](https://www.linkedin.com/in/dongdong-zhu-aa3033129/?locale=en_US) | [GitHub](https://github.com/CeciliaZhu1997)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
